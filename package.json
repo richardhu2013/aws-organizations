@@ -1,0 +1,16 @@
+{
+  "name": "cba-a-ca-aws-organization-mgt",
+  "version": "1.0.0",
+  "description": "AWS organization automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Richard",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1046.0",
+    "csv-writer": "^1.6.0",
+    "proxy-agent": "^5.0.0"
+  }
+}
